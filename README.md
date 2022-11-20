@@ -5,7 +5,7 @@ contract using OOP principle and react hooks.
 
 ## Live demo
 
-https://vite-react-web3modal-template.vercel.app/
+https://web3-full-template.vercel.app/
 
 ## Install
 
